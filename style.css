@@ -68,7 +68,7 @@ p {
 
 .hero-full-width {
     min-height: 700px;
-    background-image: url('img/home.png'); 
+    background-image: url('home.png'); 
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -281,4 +281,5 @@ p {
 footer {
     background-color: #343a40;
     color: white;
+
 }
